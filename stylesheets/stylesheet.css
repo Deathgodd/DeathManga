@@ -67,12 +67,6 @@ header h2 {
   color: #666;
 }
 
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
-}
-
 /* Main Content
 */
 #main_content {
@@ -114,8 +108,7 @@ h1, h2, h3, h4, h5 {
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
-
-#main_content h6 {
+ h6 {
   font-size: 12px;
   text-transform: uppercase;
    margin: 0 0 5px 0;
