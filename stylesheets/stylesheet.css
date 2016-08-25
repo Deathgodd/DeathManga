@@ -41,7 +41,15 @@ li {
    h1       - project name
    h2       - project description
 */
-
+h6{
+  text-align:justify;
+  left:25%;
+  right:25%;
+  word-spacing:5px;
+  line-height:1;
+  font-size:15px;
+  display:inline;
+}
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
